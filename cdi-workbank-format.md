@@ -10,3 +10,5 @@ then we will be able to use these import standards:
 
 https://github.com/langcog/wordbank/blob/master/raw_data/English_WG/EnglishWG_Frank_xsface_fields.csv
 https://github.com/langcog/wordbank/blob/master/raw_data/English_WG/EnglishWG_Frank_xsface_values.csv
+
+Also, here's a link to a web-based CDI: <http://webcdi.stanford.edu/form/group/Debug-V3/>
