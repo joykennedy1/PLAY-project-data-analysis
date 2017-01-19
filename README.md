@@ -9,3 +9,5 @@ Code and files related to analyzing flat-file data collected for the PLAY projec
 - `ambient_sound_levels.{Rmd,html}` : R Markdown report on data cleaning, visualization of ambient sound level data files.
 - `tablet_app_metadata.{Rmd,html}` : R Markdown report files on data cleaning of metadata stored in XML format.
 - cdi-wordbank-format.{md,html} : Info about how to format M-CDI data for easy import into [WordBank](http://wordbank.stanford.edu).
+
+- `demographics` : Scripts and files related to the data collection sites and the demographics of the surrounding area from which PIs might recruit participants.
